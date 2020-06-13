@@ -1,0 +1,11 @@
+C:\Source\Tutorial\Pattern\Creational_pattern\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.exe
+C:\Source\Tutorial\Pattern\Creational_pattern\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.deps.json
+C:\Source\Tutorial\Pattern\Creational_pattern\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.runtimeconfig.json
+C:\Source\Tutorial\Pattern\Creational_pattern\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.runtimeconfig.dev.json
+C:\Source\Tutorial\Pattern\Creational_pattern\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.dll
+C:\Source\Tutorial\Pattern\Creational_pattern\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.pdb
+C:\Source\Tutorial\Pattern\Creational_pattern\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.csprojAssemblyReference.cache
+C:\Source\Tutorial\Pattern\Creational_pattern\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.AssemblyInfoInputs.cache
+C:\Source\Tutorial\Pattern\Creational_pattern\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.AssemblyInfo.cs
+C:\Source\Tutorial\Pattern\Creational_pattern\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.dll
+C:\Source\Tutorial\Pattern\Creational_pattern\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.pdb
