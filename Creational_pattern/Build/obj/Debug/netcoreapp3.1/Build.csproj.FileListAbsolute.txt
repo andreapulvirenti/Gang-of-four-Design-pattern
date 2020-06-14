@@ -1,0 +1,11 @@
+C:\Source\Tutorial\Pattern\Creational_pattern\Build\bin\Debug\netcoreapp3.1\Build.exe
+C:\Source\Tutorial\Pattern\Creational_pattern\Build\bin\Debug\netcoreapp3.1\Build.deps.json
+C:\Source\Tutorial\Pattern\Creational_pattern\Build\bin\Debug\netcoreapp3.1\Build.runtimeconfig.json
+C:\Source\Tutorial\Pattern\Creational_pattern\Build\bin\Debug\netcoreapp3.1\Build.runtimeconfig.dev.json
+C:\Source\Tutorial\Pattern\Creational_pattern\Build\bin\Debug\netcoreapp3.1\Build.dll
+C:\Source\Tutorial\Pattern\Creational_pattern\Build\bin\Debug\netcoreapp3.1\Build.pdb
+C:\Source\Tutorial\Pattern\Creational_pattern\Build\obj\Debug\netcoreapp3.1\Build.csprojAssemblyReference.cache
+C:\Source\Tutorial\Pattern\Creational_pattern\Build\obj\Debug\netcoreapp3.1\Build.AssemblyInfoInputs.cache
+C:\Source\Tutorial\Pattern\Creational_pattern\Build\obj\Debug\netcoreapp3.1\Build.AssemblyInfo.cs
+C:\Source\Tutorial\Pattern\Creational_pattern\Build\obj\Debug\netcoreapp3.1\Build.dll
+C:\Source\Tutorial\Pattern\Creational_pattern\Build\obj\Debug\netcoreapp3.1\Build.pdb
