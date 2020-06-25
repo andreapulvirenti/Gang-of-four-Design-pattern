@@ -1,0 +1,11 @@
+C:\Source\Tutorial\Pattern\Structural_pattern\Proxy\obj\Debug\netcoreapp3.1\Proxy.csprojAssemblyReference.cache
+C:\Source\Tutorial\Pattern\Structural_pattern\Proxy\obj\Debug\netcoreapp3.1\Proxy.AssemblyInfoInputs.cache
+C:\Source\Tutorial\Pattern\Structural_pattern\Proxy\obj\Debug\netcoreapp3.1\Proxy.AssemblyInfo.cs
+C:\Source\Tutorial\Pattern\Structural_pattern\Proxy\bin\Debug\netcoreapp3.1\Proxy.exe
+C:\Source\Tutorial\Pattern\Structural_pattern\Proxy\bin\Debug\netcoreapp3.1\Proxy.deps.json
+C:\Source\Tutorial\Pattern\Structural_pattern\Proxy\bin\Debug\netcoreapp3.1\Proxy.runtimeconfig.json
+C:\Source\Tutorial\Pattern\Structural_pattern\Proxy\bin\Debug\netcoreapp3.1\Proxy.runtimeconfig.dev.json
+C:\Source\Tutorial\Pattern\Structural_pattern\Proxy\bin\Debug\netcoreapp3.1\Proxy.dll
+C:\Source\Tutorial\Pattern\Structural_pattern\Proxy\bin\Debug\netcoreapp3.1\Proxy.pdb
+C:\Source\Tutorial\Pattern\Structural_pattern\Proxy\obj\Debug\netcoreapp3.1\Proxy.dll
+C:\Source\Tutorial\Pattern\Structural_pattern\Proxy\obj\Debug\netcoreapp3.1\Proxy.pdb
