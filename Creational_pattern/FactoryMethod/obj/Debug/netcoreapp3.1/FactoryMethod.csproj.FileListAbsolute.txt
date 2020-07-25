@@ -1,0 +1,11 @@
+C:\Source\Tutorial\Pattern\Creational_pattern\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.csprojAssemblyReference.cache
+C:\Source\Tutorial\Pattern\Creational_pattern\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.AssemblyInfoInputs.cache
+C:\Source\Tutorial\Pattern\Creational_pattern\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.AssemblyInfo.cs
+C:\Source\Tutorial\Pattern\Creational_pattern\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.exe
+C:\Source\Tutorial\Pattern\Creational_pattern\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.deps.json
+C:\Source\Tutorial\Pattern\Creational_pattern\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.runtimeconfig.json
+C:\Source\Tutorial\Pattern\Creational_pattern\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.runtimeconfig.dev.json
+C:\Source\Tutorial\Pattern\Creational_pattern\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.dll
+C:\Source\Tutorial\Pattern\Creational_pattern\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.pdb
+C:\Source\Tutorial\Pattern\Creational_pattern\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.dll
+C:\Source\Tutorial\Pattern\Creational_pattern\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.pdb
