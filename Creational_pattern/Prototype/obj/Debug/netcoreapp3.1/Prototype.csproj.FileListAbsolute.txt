@@ -1,0 +1,11 @@
+C:\Source\Tutorial\Pattern\Creational_pattern\Prototype\obj\Debug\netcoreapp3.1\Prototype.csprojAssemblyReference.cache
+C:\Source\Tutorial\Pattern\Creational_pattern\Prototype\obj\Debug\netcoreapp3.1\Prototype.AssemblyInfoInputs.cache
+C:\Source\Tutorial\Pattern\Creational_pattern\Prototype\obj\Debug\netcoreapp3.1\Prototype.AssemblyInfo.cs
+C:\Source\Tutorial\Pattern\Creational_pattern\Prototype\bin\Debug\netcoreapp3.1\Prototype.exe
+C:\Source\Tutorial\Pattern\Creational_pattern\Prototype\bin\Debug\netcoreapp3.1\Prototype.deps.json
+C:\Source\Tutorial\Pattern\Creational_pattern\Prototype\bin\Debug\netcoreapp3.1\Prototype.runtimeconfig.json
+C:\Source\Tutorial\Pattern\Creational_pattern\Prototype\bin\Debug\netcoreapp3.1\Prototype.runtimeconfig.dev.json
+C:\Source\Tutorial\Pattern\Creational_pattern\Prototype\bin\Debug\netcoreapp3.1\Prototype.dll
+C:\Source\Tutorial\Pattern\Creational_pattern\Prototype\bin\Debug\netcoreapp3.1\Prototype.pdb
+C:\Source\Tutorial\Pattern\Creational_pattern\Prototype\obj\Debug\netcoreapp3.1\Prototype.dll
+C:\Source\Tutorial\Pattern\Creational_pattern\Prototype\obj\Debug\netcoreapp3.1\Prototype.pdb
