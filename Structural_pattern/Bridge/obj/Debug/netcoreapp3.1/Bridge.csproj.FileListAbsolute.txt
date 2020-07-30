@@ -1,0 +1,11 @@
+C:\Source\Tutorial\Pattern\Structural_pattern\Bridge\obj\Debug\netcoreapp3.1\Bridge.csprojAssemblyReference.cache
+C:\Source\Tutorial\Pattern\Structural_pattern\Bridge\obj\Debug\netcoreapp3.1\Bridge.AssemblyInfoInputs.cache
+C:\Source\Tutorial\Pattern\Structural_pattern\Bridge\obj\Debug\netcoreapp3.1\Bridge.AssemblyInfo.cs
+C:\Source\Tutorial\Pattern\Structural_pattern\Bridge\bin\Debug\netcoreapp3.1\Bridge.exe
+C:\Source\Tutorial\Pattern\Structural_pattern\Bridge\bin\Debug\netcoreapp3.1\Bridge.deps.json
+C:\Source\Tutorial\Pattern\Structural_pattern\Bridge\bin\Debug\netcoreapp3.1\Bridge.runtimeconfig.json
+C:\Source\Tutorial\Pattern\Structural_pattern\Bridge\bin\Debug\netcoreapp3.1\Bridge.runtimeconfig.dev.json
+C:\Source\Tutorial\Pattern\Structural_pattern\Bridge\bin\Debug\netcoreapp3.1\Bridge.dll
+C:\Source\Tutorial\Pattern\Structural_pattern\Bridge\bin\Debug\netcoreapp3.1\Bridge.pdb
+C:\Source\Tutorial\Pattern\Structural_pattern\Bridge\obj\Debug\netcoreapp3.1\Bridge.dll
+C:\Source\Tutorial\Pattern\Structural_pattern\Bridge\obj\Debug\netcoreapp3.1\Bridge.pdb
