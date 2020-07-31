@@ -4,6 +4,8 @@ namespace Bridge
 {
     class Program
     {
+        public const bool IsSmartTvLocalTv = true;
+
         static void Main(string[] args)
         {
 
@@ -30,9 +32,14 @@ namespace Bridge
                     break;
             }
 
-            myTv.ShowTvSource();
+            myTv.ShowTvGuide();
 
             myTv.PlayTv();
+
+            var smartTv = new SmartTv();
+
+            smartTv.VideoSource = IsSmartTvLocalTv ? new LocalTvSource() : null; 
+            smartTv.ShowBriefTVGuide();
 
             Console.ReadLine(); //some whitespace on output for readability
         }

@@ -12,7 +12,7 @@ namespace Bridge
         }
 
 
-        public void ShowTvSource()
+        public void ShowTvGuide()
         {
             if (_videoSource == null)
                 throw new System.Exception($"no video source found");
