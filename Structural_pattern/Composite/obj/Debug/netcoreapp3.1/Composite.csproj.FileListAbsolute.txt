@@ -1,0 +1,11 @@
+C:\Source\Tutorial\Pattern\Structural_pattern\Composite\obj\Debug\netcoreapp3.1\Composite.csprojAssemblyReference.cache
+C:\Source\Tutorial\Pattern\Structural_pattern\Composite\obj\Debug\netcoreapp3.1\Composite.AssemblyInfoInputs.cache
+C:\Source\Tutorial\Pattern\Structural_pattern\Composite\obj\Debug\netcoreapp3.1\Composite.AssemblyInfo.cs
+C:\Source\Tutorial\Pattern\Structural_pattern\Composite\bin\Debug\netcoreapp3.1\Composite.exe
+C:\Source\Tutorial\Pattern\Structural_pattern\Composite\bin\Debug\netcoreapp3.1\Composite.deps.json
+C:\Source\Tutorial\Pattern\Structural_pattern\Composite\bin\Debug\netcoreapp3.1\Composite.runtimeconfig.json
+C:\Source\Tutorial\Pattern\Structural_pattern\Composite\bin\Debug\netcoreapp3.1\Composite.runtimeconfig.dev.json
+C:\Source\Tutorial\Pattern\Structural_pattern\Composite\bin\Debug\netcoreapp3.1\Composite.dll
+C:\Source\Tutorial\Pattern\Structural_pattern\Composite\bin\Debug\netcoreapp3.1\Composite.pdb
+C:\Source\Tutorial\Pattern\Structural_pattern\Composite\obj\Debug\netcoreapp3.1\Composite.dll
+C:\Source\Tutorial\Pattern\Structural_pattern\Composite\obj\Debug\netcoreapp3.1\Composite.pdb

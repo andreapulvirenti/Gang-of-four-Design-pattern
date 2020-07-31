@@ -36,8 +36,9 @@ namespace Bridge
 
             myTv.PlayTv();
 
-            var smartTv = new SmartTv();
 
+            Console.WriteLine($"\n Normal smart TV");
+            var smartTv = new SmartTv();
             smartTv.VideoSource = IsSmartTvLocalTv ? new LocalTvSource() : null; 
             smartTv.ShowBriefTVGuide();
 
