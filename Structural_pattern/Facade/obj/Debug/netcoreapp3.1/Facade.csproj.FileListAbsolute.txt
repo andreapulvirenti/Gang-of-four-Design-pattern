@@ -1,0 +1,11 @@
+C:\Source\Tutorial\Pattern\Structural_pattern\Facade\obj\Debug\netcoreapp3.1\Facade.csprojAssemblyReference.cache
+C:\Source\Tutorial\Pattern\Structural_pattern\Facade\obj\Debug\netcoreapp3.1\Facade.AssemblyInfoInputs.cache
+C:\Source\Tutorial\Pattern\Structural_pattern\Facade\obj\Debug\netcoreapp3.1\Facade.AssemblyInfo.cs
+C:\Source\Tutorial\Pattern\Structural_pattern\Facade\bin\Debug\netcoreapp3.1\Facade.exe
+C:\Source\Tutorial\Pattern\Structural_pattern\Facade\bin\Debug\netcoreapp3.1\Facade.deps.json
+C:\Source\Tutorial\Pattern\Structural_pattern\Facade\bin\Debug\netcoreapp3.1\Facade.runtimeconfig.json
+C:\Source\Tutorial\Pattern\Structural_pattern\Facade\bin\Debug\netcoreapp3.1\Facade.runtimeconfig.dev.json
+C:\Source\Tutorial\Pattern\Structural_pattern\Facade\bin\Debug\netcoreapp3.1\Facade.dll
+C:\Source\Tutorial\Pattern\Structural_pattern\Facade\bin\Debug\netcoreapp3.1\Facade.pdb
+C:\Source\Tutorial\Pattern\Structural_pattern\Facade\obj\Debug\netcoreapp3.1\Facade.dll
+C:\Source\Tutorial\Pattern\Structural_pattern\Facade\obj\Debug\netcoreapp3.1\Facade.pdb
