@@ -31,6 +31,9 @@ namespace Facade
             va.SetAccessories();
             vehicle.WheelsNum = 4;
             vehicle.Move();
+
+        
+
         }
     }
 }

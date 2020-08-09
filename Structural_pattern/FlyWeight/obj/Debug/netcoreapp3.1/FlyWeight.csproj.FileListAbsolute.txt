@@ -1,0 +1,11 @@
+C:\Source\Tutorial\Pattern\Structural_pattern\FlyWeight\obj\Debug\netcoreapp3.1\FlyWeight.csprojAssemblyReference.cache
+C:\Source\Tutorial\Pattern\Structural_pattern\FlyWeight\obj\Debug\netcoreapp3.1\FlyWeight.AssemblyInfoInputs.cache
+C:\Source\Tutorial\Pattern\Structural_pattern\FlyWeight\obj\Debug\netcoreapp3.1\FlyWeight.AssemblyInfo.cs
+C:\Source\Tutorial\Pattern\Structural_pattern\FlyWeight\bin\Debug\netcoreapp3.1\FlyWeight.exe
+C:\Source\Tutorial\Pattern\Structural_pattern\FlyWeight\bin\Debug\netcoreapp3.1\FlyWeight.deps.json
+C:\Source\Tutorial\Pattern\Structural_pattern\FlyWeight\bin\Debug\netcoreapp3.1\FlyWeight.runtimeconfig.json
+C:\Source\Tutorial\Pattern\Structural_pattern\FlyWeight\bin\Debug\netcoreapp3.1\FlyWeight.runtimeconfig.dev.json
+C:\Source\Tutorial\Pattern\Structural_pattern\FlyWeight\bin\Debug\netcoreapp3.1\FlyWeight.dll
+C:\Source\Tutorial\Pattern\Structural_pattern\FlyWeight\bin\Debug\netcoreapp3.1\FlyWeight.pdb
+C:\Source\Tutorial\Pattern\Structural_pattern\FlyWeight\obj\Debug\netcoreapp3.1\FlyWeight.dll
+C:\Source\Tutorial\Pattern\Structural_pattern\FlyWeight\obj\Debug\netcoreapp3.1\FlyWeight.pdb
