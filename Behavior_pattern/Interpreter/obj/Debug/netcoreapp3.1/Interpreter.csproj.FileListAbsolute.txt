@@ -1,0 +1,11 @@
+C:\Source\Tutorial\Pattern\Behavior_pattern\Interpreter\obj\Debug\netcoreapp3.1\Interpreter.csprojAssemblyReference.cache
+C:\Source\Tutorial\Pattern\Behavior_pattern\Interpreter\obj\Debug\netcoreapp3.1\Interpreter.AssemblyInfoInputs.cache
+C:\Source\Tutorial\Pattern\Behavior_pattern\Interpreter\obj\Debug\netcoreapp3.1\Interpreter.AssemblyInfo.cs
+C:\Source\Tutorial\Pattern\Behavior_pattern\Interpreter\bin\Debug\netcoreapp3.1\Interpreter.exe
+C:\Source\Tutorial\Pattern\Behavior_pattern\Interpreter\bin\Debug\netcoreapp3.1\Interpreter.deps.json
+C:\Source\Tutorial\Pattern\Behavior_pattern\Interpreter\bin\Debug\netcoreapp3.1\Interpreter.runtimeconfig.json
+C:\Source\Tutorial\Pattern\Behavior_pattern\Interpreter\bin\Debug\netcoreapp3.1\Interpreter.runtimeconfig.dev.json
+C:\Source\Tutorial\Pattern\Behavior_pattern\Interpreter\bin\Debug\netcoreapp3.1\Interpreter.dll
+C:\Source\Tutorial\Pattern\Behavior_pattern\Interpreter\bin\Debug\netcoreapp3.1\Interpreter.pdb
+C:\Source\Tutorial\Pattern\Behavior_pattern\Interpreter\obj\Debug\netcoreapp3.1\Interpreter.dll
+C:\Source\Tutorial\Pattern\Behavior_pattern\Interpreter\obj\Debug\netcoreapp3.1\Interpreter.pdb
