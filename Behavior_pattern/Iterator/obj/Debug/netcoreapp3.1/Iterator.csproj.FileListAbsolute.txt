@@ -1,0 +1,11 @@
+C:\Source\Tutorial\Pattern\Behavior_pattern\Iterator\obj\Debug\netcoreapp3.1\Iterator.csprojAssemblyReference.cache
+C:\Source\Tutorial\Pattern\Behavior_pattern\Iterator\obj\Debug\netcoreapp3.1\Iterator.AssemblyInfoInputs.cache
+C:\Source\Tutorial\Pattern\Behavior_pattern\Iterator\obj\Debug\netcoreapp3.1\Iterator.AssemblyInfo.cs
+C:\Source\Tutorial\Pattern\Behavior_pattern\Iterator\bin\Debug\netcoreapp3.1\Iterator.exe
+C:\Source\Tutorial\Pattern\Behavior_pattern\Iterator\bin\Debug\netcoreapp3.1\Iterator.deps.json
+C:\Source\Tutorial\Pattern\Behavior_pattern\Iterator\bin\Debug\netcoreapp3.1\Iterator.runtimeconfig.json
+C:\Source\Tutorial\Pattern\Behavior_pattern\Iterator\bin\Debug\netcoreapp3.1\Iterator.runtimeconfig.dev.json
+C:\Source\Tutorial\Pattern\Behavior_pattern\Iterator\bin\Debug\netcoreapp3.1\Iterator.dll
+C:\Source\Tutorial\Pattern\Behavior_pattern\Iterator\bin\Debug\netcoreapp3.1\Iterator.pdb
+C:\Source\Tutorial\Pattern\Behavior_pattern\Iterator\obj\Debug\netcoreapp3.1\Iterator.dll
+C:\Source\Tutorial\Pattern\Behavior_pattern\Iterator\obj\Debug\netcoreapp3.1\Iterator.pdb
