@@ -1,0 +1,11 @@
+C:\Source\Tutorial\Pattern\Behavior_pattern\Mediator\obj\Debug\netcoreapp3.1\Mediator.csprojAssemblyReference.cache
+C:\Source\Tutorial\Pattern\Behavior_pattern\Mediator\obj\Debug\netcoreapp3.1\Mediator.AssemblyInfoInputs.cache
+C:\Source\Tutorial\Pattern\Behavior_pattern\Mediator\obj\Debug\netcoreapp3.1\Mediator.AssemblyInfo.cs
+C:\Source\Tutorial\Pattern\Behavior_pattern\Mediator\bin\Debug\netcoreapp3.1\Mediator.exe
+C:\Source\Tutorial\Pattern\Behavior_pattern\Mediator\bin\Debug\netcoreapp3.1\Mediator.deps.json
+C:\Source\Tutorial\Pattern\Behavior_pattern\Mediator\bin\Debug\netcoreapp3.1\Mediator.runtimeconfig.json
+C:\Source\Tutorial\Pattern\Behavior_pattern\Mediator\bin\Debug\netcoreapp3.1\Mediator.runtimeconfig.dev.json
+C:\Source\Tutorial\Pattern\Behavior_pattern\Mediator\bin\Debug\netcoreapp3.1\Mediator.dll
+C:\Source\Tutorial\Pattern\Behavior_pattern\Mediator\bin\Debug\netcoreapp3.1\Mediator.pdb
+C:\Source\Tutorial\Pattern\Behavior_pattern\Mediator\obj\Debug\netcoreapp3.1\Mediator.dll
+C:\Source\Tutorial\Pattern\Behavior_pattern\Mediator\obj\Debug\netcoreapp3.1\Mediator.pdb
