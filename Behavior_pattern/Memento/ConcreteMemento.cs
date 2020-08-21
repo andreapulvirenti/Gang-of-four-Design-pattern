@@ -12,6 +12,7 @@ namespace Memento
         {
             _name = name;
             _state = state;
+            
         }
 
         public string GetName()

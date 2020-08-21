@@ -33,7 +33,7 @@ namespace Memento
             }
 
             this._session = memento.GetState();
-            Console.Write($"Originator: My state has changed to: {_session.SessionId}-{_session.CurrenteUrlWebpage}-{_session.PagesVisited.ToString()}");
+            Console.WriteLine($"Originator: My state has changed to: {_session.SessionId}-{memento.GetName()}-{memento.GetDate()}");
         }
 
     }

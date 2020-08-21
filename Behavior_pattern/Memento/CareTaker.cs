@@ -29,7 +29,7 @@ namespace Memento
 
             var lastMemento = this.mementoHistory[backupName];
 
-            Console.WriteLine($"Restoring last memento: {lastMemento.GetName()}");
+            Console.WriteLine($"Restoring memento: {lastMemento.GetName()}");
             _originator.RestoreMemento(lastMemento);
             mementoHistory.Remove(backupName);
 

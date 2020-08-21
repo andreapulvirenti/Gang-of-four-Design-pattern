@@ -37,13 +37,13 @@ namespace Memento
             Console.WriteLine();
 
             Console.WriteLine("\n Now, let's rollback!\n");
-            caretaker.PopMemento("session3");
+            caretaker.PopMemento("session2");
             caretaker.ShowHistory();
             Console.WriteLine("---------------------------------");
 
 
             Console.WriteLine("\n Once more!\n");
-            caretaker.PopMemento("session2");
+            caretaker.PopMemento("session1");
             caretaker.ShowHistory();
             Console.WriteLine("---------------------------------");
 
