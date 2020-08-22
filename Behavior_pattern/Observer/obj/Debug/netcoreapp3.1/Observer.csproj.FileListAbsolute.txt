@@ -1,0 +1,11 @@
+C:\Source\Tutorial\Pattern\Behavior_pattern\Observer\obj\Debug\netcoreapp3.1\Observer.csprojAssemblyReference.cache
+C:\Source\Tutorial\Pattern\Behavior_pattern\Observer\obj\Debug\netcoreapp3.1\Observer.AssemblyInfoInputs.cache
+C:\Source\Tutorial\Pattern\Behavior_pattern\Observer\obj\Debug\netcoreapp3.1\Observer.AssemblyInfo.cs
+C:\Source\Tutorial\Pattern\Behavior_pattern\Observer\bin\Debug\netcoreapp3.1\Observer.exe
+C:\Source\Tutorial\Pattern\Behavior_pattern\Observer\bin\Debug\netcoreapp3.1\Observer.deps.json
+C:\Source\Tutorial\Pattern\Behavior_pattern\Observer\bin\Debug\netcoreapp3.1\Observer.runtimeconfig.json
+C:\Source\Tutorial\Pattern\Behavior_pattern\Observer\bin\Debug\netcoreapp3.1\Observer.runtimeconfig.dev.json
+C:\Source\Tutorial\Pattern\Behavior_pattern\Observer\bin\Debug\netcoreapp3.1\Observer.dll
+C:\Source\Tutorial\Pattern\Behavior_pattern\Observer\bin\Debug\netcoreapp3.1\Observer.pdb
+C:\Source\Tutorial\Pattern\Behavior_pattern\Observer\obj\Debug\netcoreapp3.1\Observer.dll
+C:\Source\Tutorial\Pattern\Behavior_pattern\Observer\obj\Debug\netcoreapp3.1\Observer.pdb
