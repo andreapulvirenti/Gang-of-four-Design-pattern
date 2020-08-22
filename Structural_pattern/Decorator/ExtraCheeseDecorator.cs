@@ -2,7 +2,7 @@ namespace Decorator
 {
     public class ExtraCheeseDecorator : AExtraAdditionDecorator
     {
-        private AConsumation consumation {get;}
+        // private AConsumation consumation {get;}
         public ExtraCheeseDecorator(AConsumation consumation){
             this.consumation = consumation;
         }

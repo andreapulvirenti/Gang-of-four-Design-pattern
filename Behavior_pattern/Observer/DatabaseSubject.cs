@@ -54,7 +54,6 @@ namespace Observer
                     HotelName = HotelNames[new Random().Next(0, HotelNames.Length)],
                 });
             }
-
             this.Notify();
         }
 
