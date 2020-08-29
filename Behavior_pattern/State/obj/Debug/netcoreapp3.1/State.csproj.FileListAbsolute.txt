@@ -1,0 +1,11 @@
+C:\Source\Tutorial\Pattern\Behavior_pattern\State\obj\Debug\netcoreapp3.1\State.csprojAssemblyReference.cache
+C:\Source\Tutorial\Pattern\Behavior_pattern\State\obj\Debug\netcoreapp3.1\State.AssemblyInfoInputs.cache
+C:\Source\Tutorial\Pattern\Behavior_pattern\State\obj\Debug\netcoreapp3.1\State.AssemblyInfo.cs
+C:\Source\Tutorial\Pattern\Behavior_pattern\State\bin\Debug\netcoreapp3.1\State.exe
+C:\Source\Tutorial\Pattern\Behavior_pattern\State\bin\Debug\netcoreapp3.1\State.deps.json
+C:\Source\Tutorial\Pattern\Behavior_pattern\State\bin\Debug\netcoreapp3.1\State.runtimeconfig.json
+C:\Source\Tutorial\Pattern\Behavior_pattern\State\bin\Debug\netcoreapp3.1\State.runtimeconfig.dev.json
+C:\Source\Tutorial\Pattern\Behavior_pattern\State\bin\Debug\netcoreapp3.1\State.dll
+C:\Source\Tutorial\Pattern\Behavior_pattern\State\bin\Debug\netcoreapp3.1\State.pdb
+C:\Source\Tutorial\Pattern\Behavior_pattern\State\obj\Debug\netcoreapp3.1\State.dll
+C:\Source\Tutorial\Pattern\Behavior_pattern\State\obj\Debug\netcoreapp3.1\State.pdb
