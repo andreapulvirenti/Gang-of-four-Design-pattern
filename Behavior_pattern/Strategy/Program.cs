@@ -6,7 +6,14 @@ namespace Strategy
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Duck wildDuck = new WildDuck(new FlyBehavior.SpeedFlyBehavior(), new QuackBehavior.LoudQack());
+            Duck cityDuck = new CityDuck(new FlyBehavior.SlowFlyVehavior(), new QuackBehavior.LoudQack());
+            Duck campaignDuck = new WildDuck(new FlyBehavior.SpeedFlyBehavior(), new QuackBehavior.NoQuack());
+
+            wildDuck.Fly();
+            cityDuck.Fly();
+            campaignDuck.Fly();
+
         }
     }
 }

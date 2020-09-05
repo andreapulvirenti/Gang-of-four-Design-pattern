@@ -6,7 +6,6 @@ namespace State
     {
         private State _state;
 
-        private const double basicPrice = 1000;
         public PricingContext(State state)
         {
             this._state = state;
@@ -32,6 +31,7 @@ namespace State
             this.State.TripsAvailable -= count;
             this.State.TripsSold += count;
             Console.WriteLine($"Trips available: {this.State.TripsAvailable} , trips sold: {this.State.TripsSold}");
+            ReloadPrice();
         }
 
         public void ReloadTrips(int tripsNumber)
@@ -40,7 +40,7 @@ namespace State
             this.State.TripsAvailable = tripsNumber;
         }
 
-        public void ReloadPrice()
+        protected void ReloadPrice()
         {
             if (this._state.TripsSold <= 0)
                 throw new InvalidOperationException("Cannot sell more trips that you have");
