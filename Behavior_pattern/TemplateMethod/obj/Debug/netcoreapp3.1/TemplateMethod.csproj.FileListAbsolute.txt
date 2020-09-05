@@ -1,0 +1,11 @@
+C:\Source\Tutorial\Pattern\Behavior_pattern\TemplateMethod\bin\Debug\netcoreapp3.1\TemplateMethod.exe
+C:\Source\Tutorial\Pattern\Behavior_pattern\TemplateMethod\bin\Debug\netcoreapp3.1\TemplateMethod.deps.json
+C:\Source\Tutorial\Pattern\Behavior_pattern\TemplateMethod\bin\Debug\netcoreapp3.1\TemplateMethod.runtimeconfig.json
+C:\Source\Tutorial\Pattern\Behavior_pattern\TemplateMethod\bin\Debug\netcoreapp3.1\TemplateMethod.runtimeconfig.dev.json
+C:\Source\Tutorial\Pattern\Behavior_pattern\TemplateMethod\bin\Debug\netcoreapp3.1\TemplateMethod.dll
+C:\Source\Tutorial\Pattern\Behavior_pattern\TemplateMethod\bin\Debug\netcoreapp3.1\TemplateMethod.pdb
+C:\Source\Tutorial\Pattern\Behavior_pattern\TemplateMethod\obj\Debug\netcoreapp3.1\TemplateMethod.csprojAssemblyReference.cache
+C:\Source\Tutorial\Pattern\Behavior_pattern\TemplateMethod\obj\Debug\netcoreapp3.1\TemplateMethod.AssemblyInfoInputs.cache
+C:\Source\Tutorial\Pattern\Behavior_pattern\TemplateMethod\obj\Debug\netcoreapp3.1\TemplateMethod.AssemblyInfo.cs
+C:\Source\Tutorial\Pattern\Behavior_pattern\TemplateMethod\obj\Debug\netcoreapp3.1\TemplateMethod.dll
+C:\Source\Tutorial\Pattern\Behavior_pattern\TemplateMethod\obj\Debug\netcoreapp3.1\TemplateMethod.pdb
