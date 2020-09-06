@@ -19,11 +19,11 @@ namespace Visitor
         {
             get
             {
-                return weight;
+                return weightPrice;
             }
             set
             {
-                weight = value;
+                weightPrice = value;
             }
         }
 
@@ -42,7 +42,7 @@ namespace Visitor
         public double Accept(IVisitor visitor)
         {
             var price = visitor.Visit(this);
-            Console.WriteLine($" { this.Description} ({weight} Kg): {price} Euro");
+            Console.WriteLine($"{ this.Description} x {weightPrice} Eur/kg ({weight} Kg): {price} Euro");
             return price;
         }
  

@@ -41,7 +41,7 @@ namespace Visitor
         public double Accept(IVisitor visitor)
         {
             var price = visitor.Visit(this);
-            Console.WriteLine($" { this.Description} : {price} Euro");
+            Console.WriteLine($"{ this.Description} : {price} Euro");
             return price;
         }
 

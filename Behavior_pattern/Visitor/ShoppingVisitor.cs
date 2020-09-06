@@ -1,3 +1,4 @@
+using System;
 namespace Visitor
 {
     public class ShoppingVisitor : IVisitor

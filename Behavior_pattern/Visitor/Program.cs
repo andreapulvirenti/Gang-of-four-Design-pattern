@@ -19,7 +19,7 @@ namespace Visitor
             Console.WriteLine($"the total cost is: {total}");
         }
         private static double calculateShoppingCost(List<IVisitable> products)
-        {
+        { 
             double total = 0;
             IVisitor visitor = new ShoppingVisitor();
             foreach (var item in products)
