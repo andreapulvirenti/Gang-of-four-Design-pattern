@@ -1,0 +1,11 @@
+C:\Source\Tutorial\Pattern\Behavior_pattern\Visitor\obj\Debug\netcoreapp3.1\Visitor.csprojAssemblyReference.cache
+C:\Source\Tutorial\Pattern\Behavior_pattern\Visitor\obj\Debug\netcoreapp3.1\Visitor.AssemblyInfoInputs.cache
+C:\Source\Tutorial\Pattern\Behavior_pattern\Visitor\obj\Debug\netcoreapp3.1\Visitor.AssemblyInfo.cs
+C:\Source\Tutorial\Pattern\Behavior_pattern\Visitor\bin\Debug\netcoreapp3.1\Visitor.exe
+C:\Source\Tutorial\Pattern\Behavior_pattern\Visitor\bin\Debug\netcoreapp3.1\Visitor.deps.json
+C:\Source\Tutorial\Pattern\Behavior_pattern\Visitor\bin\Debug\netcoreapp3.1\Visitor.runtimeconfig.json
+C:\Source\Tutorial\Pattern\Behavior_pattern\Visitor\bin\Debug\netcoreapp3.1\Visitor.runtimeconfig.dev.json
+C:\Source\Tutorial\Pattern\Behavior_pattern\Visitor\bin\Debug\netcoreapp3.1\Visitor.dll
+C:\Source\Tutorial\Pattern\Behavior_pattern\Visitor\bin\Debug\netcoreapp3.1\Visitor.pdb
+C:\Source\Tutorial\Pattern\Behavior_pattern\Visitor\obj\Debug\netcoreapp3.1\Visitor.dll
+C:\Source\Tutorial\Pattern\Behavior_pattern\Visitor\obj\Debug\netcoreapp3.1\Visitor.pdb
